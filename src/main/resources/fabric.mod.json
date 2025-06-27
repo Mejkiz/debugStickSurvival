@@ -18,9 +18,6 @@
 
   "environment": "*",
   "entrypoints": {
-    "fabric-datagen": [
-      "net.just_s.sds.datagen.SDSDataGenerator"
-    ],
     "main": [
       "net.just_s.sds.SDSMod"
     ]
